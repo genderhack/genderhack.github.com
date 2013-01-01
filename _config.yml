@@ -1,0 +1,4 @@
+#baseurl: /drblinken/
+markdown: maruku
+permalink: /:title
+
