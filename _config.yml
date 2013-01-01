@@ -1,4 +1,4 @@
-#baseurl: /drblinken/
+baseurl: http://genderhack.org
 markdown: maruku
 permalink: /:title
 
